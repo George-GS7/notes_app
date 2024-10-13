@@ -29,7 +29,7 @@ class NoteItem extends StatelessWidget {
               subtitle: Text(
                 'Bulid your Career with George Sherif',
                 style: TextStyle(
-                    color: Colors.black.withOpacity(.5), fontSize: 20),
+                    color: Colors.black.withOpacity(.5), fontSize: 18),
               ),
               trailing: IconButton(
                 padding: const EdgeInsets.only(bottom: 30),
